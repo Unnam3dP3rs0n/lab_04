@@ -6,7 +6,7 @@ def matrixsozd():
         n -=1
     return matrix
 
-def povtorenia():
+def povtor():
     matrix = matrixsozd()
     i = 0
     index = 0
